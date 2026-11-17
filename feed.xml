@@ -1,2 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS Filtrado</title><link>https://www.youtube.com/feeds/videos.xml?channel_id=UCGpf7WX7R1one-NwOvg_PbQ</link><description>Videos filtrados de YouTube</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 16 Nov 2026 05:19:53 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS Filtrado</title><link>https://www.youtube.com/feeds/videos.xml?channel_id=UCGpf7WX7R1one-NwOvg_PbQ</link><description>Videos filtrados de YouTube</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 17 Nov 2026 06:59:32 +0000</lastBuildDate><item><title>Highlights AZ Vrouwen - Ajax Vrouwen | Vrouwen Eredivisie</title><link>https://www.youtube.com/watch?v=sHGv7i6U6q8</link><description>De samenvatting van het duel tussen AZ Vrouwen en Ajax Vrouwen in de Vrouwen Eredivisie.
+
+#AjaxVrouwen
+
+►SUBSCRIBE NOW http://ajax.ms/subscribe
+
+►FOLLOW US
+Website: https://www.ajax.nl
+X: https://x.com/AFCAjax
+Facebook: http://facebook.com/afcajax
+Instagram: http://instagram.com/afcajax
+TikTok: http://tiktok.com/@afcajax
+WhatsApp: https://whatsapp.com/channel/0029Va8aYxJ7dmeZ0IW2Xz2E
+Threads: https://www.threads.net/@afcajax</description><pubDate>Sun, 15 Nov 2026 22:59:13 +0000</pubDate></item></channel></rss>
